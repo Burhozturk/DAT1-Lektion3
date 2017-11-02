@@ -12,6 +12,7 @@ package kat;
 public class Main {
     public static void main(String[] args) 
     {
+        //Opretter objekter fra klassen 
         Hund Casper=new Hund();
         Hund Hund2=new Hund("Casper"); 
         Hund Hund3=new Hund(13);
